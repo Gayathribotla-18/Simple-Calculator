@@ -1,2 +1,2 @@
 # Simple-Calculator
-Simple Calculator(Java Swing)
+Simple Calculator using python 
